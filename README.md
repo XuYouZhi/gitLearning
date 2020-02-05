@@ -1,2 +1,2 @@
-# gitLearning
-We are learning git.
+Hi,we are learning Git together.
+Have a good time!
